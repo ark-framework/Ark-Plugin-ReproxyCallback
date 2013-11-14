@@ -1,14 +1,17 @@
 # NAME
 
-Ark::Plugin::ReproxyCallback - It's new $module
+Ark::Plugin::ReproxyCallback - Ark plugins for Reproxy
 
 # SYNOPSIS
 
-    use Ark::Plugin::ReproxyCallback;
+    use Ark;
+    use_plubins qw/
+        ReproxyCallback
+    /;
 
 # DESCRIPTION
 
-Ark::Plugin::ReproxyCallback is ...
+Ark::Plugin::ReproxyCallback is Ark plugin for supporting Reproxy.
 
 # LICENSE
 
@@ -18,5 +21,7 @@ This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
 # AUTHOR
+
+Daisuke Murase <typester@cpan.org>
 
 Songmu <y.songmu@gmail.com>

@@ -1,7 +1,7 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "Ark plugins for Reproxy",
    "author" : [
-      "Songmu <y.songmu@gmail.com>"
+      "Daisuke Murase <typester@cpan.org>"
    ],
    "dynamic_config" : 0,
    "generated_by" : "Minilla/v0.9.0, CPAN::Meta::Converter version 2.131560",
@@ -43,7 +43,7 @@
       },
       "runtime" : {
          "requires" : {
-            "perl" : "5.008005"
+            "perl" : "5.008001"
          }
       },
       "test" : {
@@ -53,5 +53,19 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/ark-framework/Ark-Plugin-ReproxyCallback/issues"
+      },
+      "homepage" : "https://github.com/ark-framework/Ark-Plugin-ReproxyCallback",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/ark-framework/Ark-Plugin-ReproxyCallback.git",
+         "web" : "https://github.com/ark-framework/Ark-Plugin-ReproxyCallback"
+      }
+   },
+   "version" : "0.01",
+   "x_contributors" : [
+      "Songmu <y.songmu@gmail.com>"
+   ]
 }

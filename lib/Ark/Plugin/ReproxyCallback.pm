@@ -45,7 +45,7 @@ __END__
 
 =head1 NAME
 
-Ark::Plugin::ReproxyCallback - Ark plugins for reproxy
+Ark::Plugin::ReproxyCallback - Ark plugins for Reproxy
 
 =head1 SYNOPSIS
 
@@ -56,7 +56,7 @@ Ark::Plugin::ReproxyCallback - Ark plugins for reproxy
 
 =head1 DESCRIPTION
 
-Ark::Plugin::ReproxyCallback is Ark plugin for supporting reproxy.
+Ark::Plugin::ReproxyCallback is Ark plugin for supporting Reproxy.
 
 =head1 LICENSE
 
